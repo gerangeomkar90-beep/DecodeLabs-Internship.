@@ -45,29 +45,20 @@ aws-s3-static-website-hosting/
 └── screenshots/
 
 ## Live Website
-https://omkar-portfolio-202.s3.ap-south-1.amazonaws.com/index.html?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAYMBNGSY5DS3XEJMC%2F20260815%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20260815T162419Z&X-Amz-Expires=300&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFAaCmFwLXNvdXRoLTEiSDBGAiEA1ARa6oYZjOdpSIcFD6l4xs70bRB5Zd46dTS6ybi%2FusECIQCiliJ7IiTCS5xBG%2F0U%2BJmSUHyU%2FcP0RHNm7j5BvmdmJCraAggaEAAaDDU3NTYyMDQyMTE3OCIMepA%2BwnSh76z1%2B3g3KrcCg6Gq0FuDr8%2FpjeIdUz5szdF3Szu%2F8UndCfCMq%2BJD6zGGHXijNQ52RqieWB%2FdUqVSPUsILRRBJrb7GWDQk6WJSY74vVZ2aw6e5ccxAo56t2nMXf6u%2BeU%2FBNnuqD6LEDh1zUCKBELObxSKrVxN5m3nCUpvSr6NGzdrSDpZAObXncfGIpxkC7MY69BgKHDz32yQkAW%2FtQdEdiGoYKyEz8ueQiuDZC9htjI04TKLw%2BmesSMxsqOCMAU4RR7l%2BHzFoO0snmySdX5WvCskJVOQdoYPjx2AOAMv4Y7gng8bxn9AtXqKv65z6%2BHUmiyEqaJeQ8%2F4Sq69MUQ5gqtl91B1xy5lIKnddN29jVwEZqLvnMIFNIQAHqyVxey9mb5AKVjkWy6VIa5qlCjdIFOYcB5uVEFW3I%2BK%2BiX8anEw2uuB1AY6rAIg69AuI5kGVmT53Irljy3r8tyyHsyE%2F%2BbNFbKFVnXsgxz9g75DPQ2djWzFjX9KSxgfMU25xDXJaywqN6cM7hy8XfTB4kGCxWjpZbHrzQ3rCU2fBgPpCFn9Unb1lrZWNh5oM8yTMP7yYsZ3cOnpZZeW0J%2FMTWYsb5ffV2c5saaMUIdQL%2FcaXDo8XeOAL9H0iXwDTzJIewysMUJ%2FMKUL1CrFDAddNifnoI7GOFHAslhWuJQhZPisXmaAJEdKQfOXRcKtV%2FkWHoXIr8fpo2e2yE5D3HLPojPH5jL4HyPg0J1aYCZVvELx6qbDYkJnaW8Yj4slTDe3xL8HL1w3Ztf90WmEhlhLgXY6jCKXKAY1xH42nnRJyVxIkWD4sPKnBVqNJB2X%2BV0bcfAP17rnW98%3D&X-Amz-Signature=7326ade7938598f0a393039e445ce04f1fb10ad9d47e76e04ddbc5ffd21ec83c&X-Amz-SignedHeaders=host&response-content-disposition=inline
+https://omkar-portfolio-202.s3.ap-south-1.amazonaws.com/index.html?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAYMBNGSY5KY6VXXA7%2F20260815%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20260815T165223Z&X-Amz-Expires=300&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFEaCmFwLXNvdXRoLTEiRzBFAiB%2BY20z32hMLNzfSQcTarSlk9IOnW3lKRZ2u5n17VrcvwIhAIod9AZ3%2BHhQDRpKGPGryrVHqMxfSLJvwNgZp5tHuzlvKtoCCBoQABoMNTc1NjIwNDIxMTc4IgyF2JZSJkhFBpUmwoMqtwIsdRk4G1aw0qMhDQZXtMGHyVVLBfwB%2BfcR9H%2BluOGgO4CqWn1pwIsfg2j9RGiHFMXhoqBMUAQJ0YzDtBU%2FYkKhv01IBiXK5LXgupzVsPMi4KogG2PMrWunwOc0N7lqD5r0qCU077kK3vOYNRR%2F0EHFGWxTVeCv6Ru%2Bj6rI2oOvBb3a0R%2BMkaOXsZEQ0SZLYWzluUoagdgkQ4MB6sa2Se%2BJfZaZ4SqWKJcjPkWyR6ns8ACKta4uAlYemtb3HxrQCOst3KDlO5LOqaE6rmkb29OdQnJQPCC9KzpawRhUKdTls4pGSpYylIJ98NcxUaBYX5rGfR3jbyoGflqhUMmyxQyyQYqTbCx%2BxOkGCeW4yMO1BND5QUoAHmmUgAnhwkdFPvzSRcre7mqsWoUEhL%2BvNKxctrmPFIrn%2BjDa64HUBjqtAuTdWSFb2MFehsvQgAePuU4Jo0bS4XdU0q3Ka7ElylC9c043%2BtxxgsduayxrqZcwSjrMvdzXK4Xf1yh7C492dA10sWXCMS7cIO2XUWjrNi02gMoYXJIIvGNRvRkQXUCtIwv4Qz9wYqL7C3mwRnBMb%2B1kOpWsI%2BpnJ0dODhIIVqHhBXxo0FUe3W7cC5tdO62u0ypTeZaX7PUyQ111mEzkRCVMPxksNYXQJHNM5dGxEdwKRV9wv36ilYqVPTS82IlnLJ3mMz%2FTJT6wcppr3c9ImxZXr6veJQIbh7t9l%2BMIxM3luljmEmIba39MD2BQiNgSXYMdsekC87Dp%2BmbEYSWlYg6fZeQaoHFom5xKuXsTpnNv0drAiOa48xB5Ts2aq%2F81dUnjsvfTjSfsdqcPrAM%3D&X-Amz-Signature=ce22129b2691c889c7f4aa20daeb70bb35cc225782b2be8f8a15160b99a24fe0&X-Amz-SignedHeaders=host&response-content-disposition=inline
+## Project Screenshots
 
-## Screenshots
+### S3 Bucket Created
+![S3 Bucket](buket_create.png)
 
-### S3 Bucket
-
-![S3 Bucket](screenshots/buket_create.png)
-
-### Uploaded Files
-
-![Uploaded Files](screenshots/file_upload.png)
-
-### Static Website Hosting
-
-![Static Hosting](screenshots/live_website.png)
+### Website Files Uploaded
+![Uploaded Files](file_upload.png)
 
 ### Bucket Policy
-
-![Bucket Policy](screenshots/polices.png)
+![Bucket Policy](polices.png)
 
 ### Live Website
-
-![Live Website](screenshots/live_website.png)
+![Live Website](live_website.png)
 
 ## Author
 
